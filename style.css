@@ -4,3 +4,10 @@ p{
 body {
     backgraund: #4682B4;
 }
+
+h1{
+    text-align: center;
+}
+em strong {
+    color:cadetblue;
+}
