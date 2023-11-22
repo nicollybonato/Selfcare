@@ -1,13 +1,12 @@
-p{
-    text-align: center;
-    }
 body {
     background: #4682B4;
 }
-
 h1{
     text-align: center;
 }
 em strong {
     color:cadetblue;
 }
+p{
+    text-align: center;
+    }
